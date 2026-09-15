@@ -1,0 +1,6 @@
+{
+  "name": "StudyCopilot AI",
+  "description": "An AI-powered learning assistant helping students summarize notes, explain concepts simply, generate MCQs, create flashcards, prepare for oral vivas, design revision plans, and compile presentations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
